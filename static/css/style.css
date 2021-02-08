@@ -1,0 +1,21 @@
+h1 {
+    font-size: 3rem;
+    font-family: "Roboto Light";
+}
+
+input {
+    width: 100%;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+select {
+    width: 100%;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+label {
+    padding-top: 20px;
+}
+.social {
+    padding-right: 15px;
+}
