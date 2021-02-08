@@ -12,7 +12,7 @@ Count specific events in your google calendar.
 ## General info
 Website is available here: 
 
-http://kalendarz.retip1994.usermd.net/
+https://kalendarz.retip1994.usermd.net/
 
 ![website-screenshot](http://cv.retip1994.usermd.net/wp-content/uploads/2021/02/gcalendar-screenshot.png)
 
