@@ -14,8 +14,7 @@ Website is available here:
 
 http://kalendarz.retip1994.usermd.net/
 
-Login using your google account, select your google calendar. Fill the event search form.
-Results will be shown under the form.
+![website-screenshot](http://cv.retip1994.usermd.net/wp-content/uploads/2021/02/gcalendar-screenshot.png)
 
 ## Setup
 If you would like to setup your own website, follow these steps:
